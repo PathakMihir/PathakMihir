@@ -8,7 +8,7 @@
      - Containerization and Orchestration: Docker, Kubernetes(Certified Kubernetes Application Developer Certified)
      - Proficient in Data Structures and Algorithms  and System Design
      - Leetcode: https://leetcode.com/mihir_pathak/
-     - Currently Exploring: Kubernetes,https://github.com/DiceDB/dice,Istio
+     - Currently Exploring:https://github.com/DiceDB/dice
 - 📫 How to reach me pathakmihir2804@gmail.com
 
 <!---
